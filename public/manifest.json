@@ -1,0 +1,25 @@
+{
+  "short_name": "Quiz App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "https://dev.brand2social.com/api/image-server/fetch-media?path=9ee53f5c424070c112966f4482654a04652217aec8ba157745.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://dev.brand2social.com/api/image-server/fetch-media?path=9ee53f5c424070c112966f4482654a04652217aec8ba157745.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
